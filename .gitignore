@@ -1,0 +1,11 @@
+node_modules
+.DS_Store
+.nyc_output
+coverage
+package-lock.json
+.scannerwork
+tmp
+secret*
+config*
+version.txt
+/tmp
